@@ -1,3 +1,7 @@
+# Code Inspiration from gpsyrou
+# Adapted for Trustpilot in travel sector
+
+
 # Topic Modelling with NLP & Latent Dirichlet Allocation on Customer Reviews
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?&logo=Jupyter)
 
